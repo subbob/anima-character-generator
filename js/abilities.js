@@ -44,7 +44,7 @@ define({
     Disguise: {Field: 'Subterfuge', Characteristic: 'DEX'},
     Hide: {Field: 'Subterfuge', Characteristic: 'PER'},
     'Lock Picking': {Field: 'Subterfuge', Characteristic: 'DEX'},
-    Poisons: {Field: 'Subterfuge', Characteristic: 'INT', kowledge: true},
+    Poisons: {Field: 'Subterfuge', Characteristic: 'INT', knowledge: true},
     Theft: {Field: 'Subterfuge', Characteristic: 'DEX'},
     Stealth: {Field: 'Subterfuge', Characteristic: 'AGI'},
     'Trap Lore': {Field: 'Subterfuge', Characteristic: 'DEX'},
